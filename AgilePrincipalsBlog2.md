@@ -1,0 +1,7 @@
+# Agile Principles at Principal - #2
+ 
+Welcome back to installment #2 of our conversation about the 12 Principles of Agile (http://www.agilemanifesto.org).  One thing I'd remind you is that "Agile" is a way of solving problems through learning.  Which, leads nicely into our next principle:  **"Welcome changing requirements, even late in development. Agile processes harness change for the customer's competitive advantage."** {note: we may bold or highlight this text to avoid using quotes and asterisks}
+ 
+This is a great principle, and one that can easily be misinterpreted.  When we think of requirements, we think "top down."  However, it's extremely important to understand that **everyone** should welcome changing requirements.  Often times in delivery teams we act like order takers, trusting that someone outside of our team knows more about "the customer," than we do.  We all make decisions with the information we have at the time, when we learn something new it's our job to start the conversation with the rest of our team (Dev, QA, BA, PO, ) {Can we remove or rephrase this content to avoid being role specific?  Maybe just reference it as the Delivery team?} and welcome the change that it may bring.
+ 
+How do you think you can live this principle in your area?

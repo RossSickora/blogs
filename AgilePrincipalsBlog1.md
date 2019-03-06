@@ -1,0 +1,6 @@
+#Agile Manifesto Blog #1
+
+When I started at Principal a couple years ago as a software engineer, I heard a familiar phrase that is repeated throughout Des Moines area: "Yeah, we're Agile here." I had to question the statement, everyone says it, but what does it really mean here? My answer: Agile means we want to learning faster. Over the next twelve months I'll be working through the 12 core principles of the [Agile Manifesto](https://agilemanifesto.org) and sharing some thoughts on how we can learn faster in the context of each principle.
+ 
+Our highest priority is to satisfy the customer through early and continuous delivery of valuable software.
+That's right, priority ONE is to satisfy the customer by giving them software they find valuable repeatedly. In my mind I use the quote "Ship Early and Ship Often," to keep this principle in the forefront of my mind. We ship what we think is valuable, at Principal, we tend to overestimate what is enough to "satisfy the customer." Take from this principle that maybe we don't know, and less is often more. Let's let our customers decide by putting what we build in front of them so we can learn from them as soon as possible.
