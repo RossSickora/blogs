@@ -1,0 +1,11 @@
+# Agile Principles Blog 5
+
+Welcome to the fifth installment of reviewing the Principles of Agile from the [Agile Manifesto](https://www.agilemanifesto.org) I'll be your host as we talk about our next principle:  _"Business people and developers must work together daily throughout the project."_ In this installment let's talk about **why** having business and developers working together daily is important.
+
+Take a couple minutes before continuing to read to think about the thought of why marrying the ideas of our business partners with the technical capabilities of our delivery teams every day is important in your areas.  Share your thoughts in the comments, and let's continue on.  Let's first consider why daily interactions are important.  Daily interactions are how we build meaningful relationships with one another, we break down the barriers to communication between our respective areas of expertise.  Essentailly we learn how to communicate effectively with one another, we learn how to trust one another.  When we work together daily _we get faster feedback!_ and we get feedback from both directions.
+
+Feedback is what keeps us moving forward, it's what helps us find the next problem and know we have solved it.  Before we shortened the feedback loop with tools like scrum/sAFE/agile we built the wrong thing a lot, we built the wrong thing often because we were trying to solve the wrong problem, or the problem we were trying to solve was too big for us to solve in one fell swoop.
+
+So, **Why** do we need developers and business people to work together daily?  At a minimum it is to shorten our feedback loop and know how the software we are building is being used and whether it is solving the right problem.  If you're a delivery/development team, are you working directly with the people who use your system?  Are you showing the work you have done today, this week, or this month to those whose problems your work is intended to solve?  Those of you responsible for shaping the vision of our systems, are you talking with the people building your systems?  Are you asking them how they can help you solve problems?  Are you both working together every day?  
+
+**WHY NOT?**
